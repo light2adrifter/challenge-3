@@ -9,6 +9,6 @@ Created an application that generates a random password based on user-selected c
 
 You are required to submit the following for review:
 
-* URL of the deployed application 
+* URL of the deployed application https://light2adrifter.github.io/challenge-3/ .
 
 * The URL of the GitHub repository https://github.com/light2adrifter/challenge-3 .
