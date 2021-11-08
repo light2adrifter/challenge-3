@@ -13,7 +13,7 @@ const arraySymbols = arrayLowToHigh(33, 47).concat(
 // creates array for characters, numbers, and symbols using ASCII
 function arrayLowToHigh(low, high) {
   const array = []
-  for (let i =low; i <= high; i++) {
+  for (let i =low; i < high; i++) {
     array.push(i)
   } 
   return array
